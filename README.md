@@ -4,7 +4,7 @@ tdd practice: writing tests for javascript functions with jest
 ## development 
 
 javascript functions:
-- capitalize(String): Char
+- capitalize(String): String
 - reverseString(String): String
 - calculator:
   - add(Number, Number): Number
